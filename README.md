@@ -11,4 +11,5 @@ CatsApp GitHub：[catsapp-rs](https://github.com/catsapp-rs)
 
 -----
 
-Contact：support@rs6apps.com
+Contact：support@rs6apps.com  
+ご依頼は個別相談にて（規模により0円〜）
