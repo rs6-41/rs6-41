@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+日本人エンジニア  
+
 - [Website](https://rs6apps.com)
 - [Qitta](https://qiita.com/RS6)
 - [Twitter (X)](https://x.com/rs6_dev)
